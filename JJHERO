@@ -1,0 +1,45 @@
+<DESKTOP>
+
+<h2 class="title" style="
+text-transform: uppercase;
+    font-weight: 700;
+line-height:1;
+    font-size: 80px;
+">YA DISPONIBLE</h2>
+
+<h6 style="
+letter-spacing: 0px;
+font-weight: 500;
+font-size: 73px;
+">JET JAGUAR COLLECTION</h6>
+
+<TABLET>
+
+<h2 class="title" style="
+text-transform: uppercase;
+    font-weight: 700;
+line-height:1;
+    font-size: 80px;
+">YA DISPONIBLE</h2>
+
+<h6 style="
+letter-spacing: 0px;
+font-weight: 500;
+font-size: 60px;
+">JET JAGUAR COLLECTION</h6>
+
+
+MOBILE
+
+<h2 class="title" style="
+text-transform: uppercase;
+    font-weight: 700;
+line-height:1;
+    font-size: 40px;
+">YA DISPONIBLE</h2>
+
+<h6 style="
+letter-spacing: 0px;
+font-weight: 500;
+font-size: 40px;
+">JET JAGUAR COLLECTION</h6>
