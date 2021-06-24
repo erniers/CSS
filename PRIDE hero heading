@@ -1,0 +1,46 @@
+"DESKTOP!
+
+<h2 class="title" style="
+text-transform: uppercase;
+    font-weight: 700;
+line-height:1;
+    font-size: 80px;
+color: black;
+">YA DISPONIBLE</h2>
+
+<h6 style="
+letter-spacing: 0px;
+font-weight: 500;
+line-height:5;
+font-size: 73px;
+color: black;
+">PRIDE COLLECTION</h6>
+
+
+<TABLET>
+
+<h2 class="title" style="
+text-transform: uppercase;
+    font-weight: 700;
+line-height:1;
+    font-size: 80px;
+color: black;
+">YA DISPONIBLE</h2>
+
+<h6 style="
+letter-spacing: 0px;
+font-weight: 500;
+font-size: 60px;
+color:black;
+">PRIDE COLLECTION</h6>
+
+
+MOBILE
+
+<h6 style="
+letter-spacing: 0px;
+font-weight: 800;
+line-height:7;
+font-size: 40px;
+color:black;
+">COLLECTION</h6>
