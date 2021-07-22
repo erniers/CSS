@@ -1,0 +1,32 @@
+<style>
+.div5 {
+ font-size:16PX;
+color: black;
+line-height: 1.2;
+}
+span{
+color:tomato
+}
+
+span21{
+font-size:16px;
+font-weight:bold;
+}
+</style>
+
+<div class="div5">
+
+Para <span>GARANTIZAR LA SEGURIDAD DE TU COMPRA</span> usamos MercadoPago, la pasarela de pagos más segura de América Latina.<br><br>Además, permite a nuestros clientes pagar de manera sencilla con: 
+<br><br>
+
+<li><span21>Efectivo:</span21> Paga en Oxxo, 7 Eleven, Chedraui y Farmacias del Ahorro con tu orden de compra.</li>
+<br>
+ <li><span21>Tarjeta:</span21> Paga con tarjeta de débito o crédito.</li>
+<br>
+<li><span21>Transferencia:</span21> SPEI, Citibanamex y Santander.</li>
+<br>
+<li><span21>Paypal:</span21> Inicia sesión y usa tus métodos de pago guardados. 
+</li>
+<br>
+MercadoPago protege a compradores y vendedores de  fraudes y robos.
+</div>
