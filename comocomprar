@@ -1,0 +1,39 @@
+<style>
+.div4 {
+ font-size:16px;
+color: black;
+line-height: 1.6;
+}
+
+span{
+color:tomato
+}
+span2{
+font-size:16px;
+font-weight:bold;
+}
+a:link {
+  color: blue;
+}
+
+</style>
+
+<div class="div4">
+
+Comprar tu ropa por internet nunca había sido tan sencillo, solamente debes seguir estos 5 pasos para tener tus prendas Onix en la puerta de tu casa en el menor tiempo posible. 
+
+<br><br>
+<span2>PASO 1</span2>:  Elige tu talla favorita y haz clic en <span>AGREGAR AL CARRITO</span>. 
+
+<br><br>
+<span2>PASO 2</span2>: Selecciona todos tus productos y haz clic en <span>CHECKOUT</span> en la barra lateral emergente.
+
+<br><br>
+<span2>PASO 3</span2>: Sigue las indicaciones y llena el formulario con tu datos y dirección de envío y haz clic en <span>CONTINUAR</span>
+<br><br>
+<span2>PASO 4</span2>: Elige tu método de pago favorito desde Mercadopago. Puedes pagar con efectivo, tarjeta, transferencia y Paypal.
+
+<br><br>
+<span2>PASO 5</span2>: Recibe tu pedido en la puerta de tu casa. 
+
+<br><br> Si requieres ayuda para completar el proceso de compra puedes escribirnos en <a href="https://www.m.me/onixclothingmx" target="_blank">Messenger</a> o <a href="https://www.instagram.com/onixclothingmx" target="_blank">Instagram</a></div>
