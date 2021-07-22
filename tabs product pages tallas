@@ -1,0 +1,43 @@
+<style>
+.div2 {
+ font-size:17px;
+color: black;
+line-height: 1.4;
+}
+</style>
+
+<div class="div2">
+Escoger el tamaño de tus artículos puede generar dudas, por eso queremos ayudarte en el proceso.<br><br>
+
+Nuestras prendas tienen un estilo holgado, entonces, si deseas un corte regular que no esté pegado al cuerpo, selecciona la talla que compres normalmente.<br> <br> Si deseas un corte slim fit o más ajustado al cuerpo deberás escoger una talla menor a la que seleccionas normalmente.
+</div> 
+<br>
+<div class="table-responsive dynamic" data-unit-system="metric" style="color:black;">
+<table cellpadding="5">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+
+<td><strong>S</strong></td>
+<td><strong>M</strong></td>
+<td><strong>L</strong></td>
+<td><strong>XL</strong></td>
+</tr>
+<tr>
+<td><strong>Largo (cm)</strong></td>
+<td>70</td>
+<td>72</td>
+<td>74</td>
+<td>76</td>
+</tr>
+<tr>
+<td><strong>Ancho (cm)</strong></td>
+
+<td>51</td>
+<td>53</td>
+<td>57</td>
+<td>60</td>
+</tr>
+</tbody>
+</table>
+</div>
