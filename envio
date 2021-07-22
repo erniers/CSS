@@ -1,0 +1,17 @@
+<style>
+.div3 {
+ font-size:16px;
+color: black;
+line-height: 1.6;
+}
+</style>
+
+<div class="div3">
+<li>Envío express a toda la República Méxicana.</li>
+ <li>Su compra llegará en un máximo de 10 días hábiles.</li>
+<li>En su correo recibirá la información de seguimiento una vez que su pedido haya sido enviado.</li>
+<br>
+<li>Para compras internacionales dirigirse a <a href="https://www.onixclothing.com" style="color:blue;">Onix Clothing International</a>. 
+</li>
+
+<li>Si es redirigido a este sitio nuevamente cambie su dirección IP.</li></div>
