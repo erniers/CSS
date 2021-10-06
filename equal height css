@@ -1,0 +1,13 @@
+.equal-height {
+  display: table;
+  width: 100%;
+}
+.equal-height-col {
+  display: table-cell;
+  padding: 2px;
+}
+
+
+
+poner css class en seccion 
+poner css clas en icon box
